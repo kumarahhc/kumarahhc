@@ -1,4 +1,5 @@
-## Hi there 👋
+## Profile
+Software engineer, architect with more than a decade of experience in designing and delivering end-to-end solutions, including industrial IoT systems, industrial monitoring applications, and system backend applications. Proven expertise in backend technologies, IoT , edge computing, and real-time data processing. Strong background in architecting scalable, secure, and maintainable software systems with emphasis on cybersecurity, data privacy, and regulatory compliance. Experienced in leading cross-functional teams, stakeholder collaboration, and implementing DevOps practices, including CI/CD pipelines and automated testing. Currently engaged in an IoT, human, and AI hybrid driving assistance system and cloud-native architectures.
 
 <!--
 **kumarahhc/kumarahhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
