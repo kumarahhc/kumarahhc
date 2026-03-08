@@ -2,7 +2,7 @@
 Software engineer, architect with more than a decade of experience in designing and delivering end-to-end solutions, including industrial IoT systems, industrial monitoring applications, and system backend applications. Proven expertise in backend technologies, IoT , edge computing, and real-time data processing. Strong background in architecting scalable, secure, and maintainable software systems with emphasis on cybersecurity, data privacy, and regulatory compliance. Experienced in leading cross-functional teams, stakeholder collaboration, and implementing DevOps practices, including CI/CD pipelines and automated testing. Currently engaged in an IoT, human, and AI hybrid driving assistance system and cloud-native architectures.
 
 ## Key Projects
----
+
 ### Microservice Architecture for Navigation Application
 Designed and developed a prototype application for real-time data processing and route calculation using event-driven microservice architecture as part of a master's thesis. The project is conducted by the University of Oulu and FMI (https://6gvisible.fmi.fi/ )
 
