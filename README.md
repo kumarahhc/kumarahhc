@@ -28,6 +28,15 @@ Architected and developed Android BLE application for Israel customer enabling w
 
 > Android Java, Bluetooth Low Energy
 
+### ERP system for automobile workshop (BMW)
+End-to-end ERP system for BMW automobile workshop. It includes job management, labour management, inventory management, invoicing, payment receipt, reports and automated SMS and mail alerts
+>Java, PHP, MySQL, RESTfull, SAML SSO
+
+### Operation Management System for Service sector
+
+End-to-end process management system for after-sales service (fault ticketing and job order management, contract management). The system process runs on a customer-defined workflow with SLA.
+>PHP, Java, MySQL, RESTfull
+
 <!--
 **kumarahhc/kumarahhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
