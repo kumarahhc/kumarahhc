@@ -35,9 +35,9 @@ End-to-end ERP system for BMW automobile workshop. It includes job management, l
 ### Operation Management System for Service sector
 
 End-to-end process management system for after-sales service (fault ticketing and job order management, contract management). The system process runs on a customer-defined workflow with SLA.
->PHP, Java, MySQL, RESTfull
+> PHP, Java, MySQL, RESTfull
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=kumarahhc&label=Profile%20views&color=0e75b6&style=flat)
 <!--
 **kumarahhc/kumarahhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
